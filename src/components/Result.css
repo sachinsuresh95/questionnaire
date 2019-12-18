@@ -1,0 +1,8 @@
+.result-table {
+    border-collapse: collapse
+}
+
+.result-table td, .result-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
